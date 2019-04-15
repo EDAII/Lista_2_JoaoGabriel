@@ -1,4 +1,5 @@
 # Lista_2_JoaoGabriel
+**João Gabriel Rossi de Borba - 170013693**   
 Aplicação do algoritmo selection sort para sorting de pixels em uma foto, baseado na matiz. 
 
 ## Como usar
